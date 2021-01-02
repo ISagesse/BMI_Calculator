@@ -7,4 +7,6 @@ run the following comand line.
 npm i 
 node calculator.js
 
-now go to you bwoser and paste http://localhost:3000/
+now go to you bwoser and paste http://localhost:3000/ addition page.
+
+http://localhost:3000/bmicalculator to go to the bmi calculator page.
